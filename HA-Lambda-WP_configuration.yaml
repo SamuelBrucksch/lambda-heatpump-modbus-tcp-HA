@@ -236,7 +236,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -246,7 +246,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -255,7 +255,7 @@ modbus:
           address: 2050
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -280,7 +280,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -290,7 +290,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -299,7 +299,7 @@ modbus:
           address: 3050
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -324,7 +324,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -334,7 +334,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -344,7 +344,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -353,7 +353,7 @@ modbus:
           address: 4050
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -362,7 +362,7 @@ modbus:
           address: 4051
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -387,7 +387,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -397,7 +397,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -407,7 +407,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -416,7 +416,7 @@ modbus:
           address: 5005
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -432,7 +432,7 @@ modbus:
           address: 5050
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -441,7 +441,7 @@ modbus:
           address: 5051
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -450,7 +450,7 @@ modbus:
           address: 5052
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -475,7 +475,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -485,7 +485,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -495,7 +495,7 @@ modbus:
           input_type: holding
           unit_of_measurement: "°C"
           state_class: measurement
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -504,7 +504,7 @@ modbus:
           address: 5105
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -520,7 +520,7 @@ modbus:
           address: 5150
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -529,7 +529,7 @@ modbus:
           address: 5151
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
@@ -538,7 +538,7 @@ modbus:
           address: 5152
           input_type: holding
           unit_of_measurement: "°C"
-          device_class: temeperature
+          device_class: temperature
           count: 1
           scale: 0.1
           precision: 1
